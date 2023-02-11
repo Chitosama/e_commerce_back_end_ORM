@@ -25,7 +25,7 @@ Access, create and update data in your e-commerce database.
 Fork this github and push your features. 
 
 ## Testing Intructions
-Please feel free to access POSTMAN(Insomnia competitor) for API calls, https://api.postman.com/collections/1113695-ffec01e2-c61d-47a0-bdea-3072a47bf23f?access_key=PMAT-01GRZZZ8BHF3PTPFCZTKDY43CA.
+Please feel free to access POSTMAN(Insomnia competitor) for API calls, https://api.postman.com/collections/1113695-ffec01e2-c61d-47a0-bdea-3072a47bf23f?access_key=PMAT-01GRZZZ8BHF3PTPFCZTKDY43CA. You can access a video walkthrough at https://youtu.be/kU1BJKVD03I.
 
 ## Questions?
 github.com/chitosama
